@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasir Adnan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerdpotatoo&label=Profile%20views&color=0e75b6&style=flat" alt="nerdpotatoo" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerdpotatoo" alt="nerdpotatoo" /></a> </p>
-
 - 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **C**
@@ -12,6 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yasir-adnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yasir-adnan" height="30" width="40" /></a>
+<a href="https://instagram.com/nerd_potatoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nerd_potatoo" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nerd_potato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nerd_potato" height="30" width="40" /></a>
 </p>
 
@@ -21,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerdpotatoo&show_icons=true&locale=en&layout=compact" alt="nerdpotatoo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdpotatoo&show_icons=true&locale=en" alt="nerdpotatoo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdpotatoo&" alt="nerdpotatoo" /></p>
