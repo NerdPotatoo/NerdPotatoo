@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdpotatoo&" alt="nerdpotatoo" /></p>
 
-![snake gif](https://github.com/toufikforyou/toufikforyou/blob/toufik/github-snake-dark.svg)
+![snake gif](https://github.com/NerdPotatoo/NerdPotatoo/blob/toufik/github-snake-dark.svg)
