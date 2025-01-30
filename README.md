@@ -21,8 +21,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerdpotatoo&show_icons=true&locale=en" alt="nerdpotatoo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerdpotatoo&" alt="nerdpotatoo" /></p>
-
 <!-- ![snake gif](https://github.com/toufikforyou/toufikforyou/blob/snake/github-snake-dark.svg) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NerdPotatoo/NerdPotatoo/blob/toufik/github-snake-dark.svg" />
